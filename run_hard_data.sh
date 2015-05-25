@@ -1,8 +1,6 @@
 #!/bin/sh                                                                                                                                                                                                                                                                
 
 
-# Check dependancy.                                                                                                                                                                                                                                                      
-
 echo "== Compiling...  =="
 make clean
 
